@@ -1,1 +1,1 @@
-{"students":[{"id":6,"name":"3","subjects":[]}]}
+{"students":[{"id":6,"name":"Tran Quoc Hoang","subjects":[{"name":"Golf","scores":[10]},{"name":"Gym","scores":[12]}]},{"id":3,"name":"Thuy Nguyen Thanh","subjects":[{"name":"Dev","scores":[10]},{"name":"IDP","scores":[15]}]},{"id":1,"name":"Nguyen Hoang Nam","subjects":[{"name":"EAD","scores":[12]},{"name":"IDP","scores":[12]}]}]}
